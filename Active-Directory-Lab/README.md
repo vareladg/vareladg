@@ -7,7 +7,7 @@ This project involved the end-to-end deployment of a Windows Server 2022 environ
 As a Junior System Administrator, I built a secure and organized network domain. This involved setting up the server, joining client workstations to the domain, and implementing the Principle of Least Privilege through Organizational Units (OUs).
 
 ## Tools & Environment
-* **Hypervisor:** VirtualBox
+* **Hypervisor:** VMware Fusion Pro and UTM
 * **Operating Systems:** Windows Server 2022 (Domain Controller), Windows 11 Pro (Client Workstation)
 * **Networking:** Internal Virtual Network with Static IP configuration
 * **Scripting:** PowerShell
@@ -15,9 +15,12 @@ As a Junior System Administrator, I built a secure and organized network domain.
 ## Technical Implementation Steps
 
 ### 1. Server Deployment & Domain Configuration
-* Installed **Windows Server 2022** on VirtualBox.
+* Installed **Windows Server 2022** on UTM.
 * Configured the server as a **Domain Controller** (DC) by installing Active Directory Domain Services (AD DS).
 * Established a custom forest/domain.
+
+<img width="1470" height="762" alt="image" src="https://github.com/user-attachments/assets/6f6ca7ed-2fad-4de8-ab22-1e710c836a6f" />
+
 
 ### 2. Networking & Client Integration
 * Configured static IP addresses for the DC and set the Windows 11 Client's DNS to point to the DC.
