@@ -28,7 +28,7 @@ Technical portfolio showcasing hands-on experience gained through professional c
 * **[Network Troubleshooting](./Network-Diagnostics)** *Diagnosing connectivity issues using CLI tools (ping, tracert, nslookup).*
 
 ### 🛡️ Cybersecurity & SOC Analysis
-* **[SQL-Security-Lab](./SQL-Security-Lab)** *Filtering through organizational login logs to identify suspicious patterns.*
+* **[SQL-Security-Lab](./SQL-Security-Lab)**: Filtering through organizational login logs to identify suspicious patterns.
 * **[Incident Response & NIST Framework](./NIST-Incident-Report)** *Detailed documentation and remediation of a security incident following NIST guidelines.*
 * **[Network Traffic Analysis](./Wireshark-Lab)** *Identifying suspicious patterns and protocols using Wireshark.*
 
