@@ -26,6 +26,9 @@ As a Junior System Administrator, I built a secure and organized network domain.
 * Configured static IP addresses for the DC and set the Windows 11 Client's DNS to point to the DC.
 * Successfully **attached a Windows 11 VM to the domain**, verifying connectivity and DNS resolution.
 
+<img width="312" height="355" alt="image" src="https://github.com/user-attachments/assets/d99bd2d2-2602-4e89-88ca-bf717889907f" />
+
+
 ### 3. OU Structure & User Management
 * Designed a logical **Organizational Unit (OU)** structure (Admins, Users, HR, IT).
 * Created security groups to manage file permissions and access control.
