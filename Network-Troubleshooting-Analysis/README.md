@@ -47,6 +47,6 @@ To identify the specific route my data takes and detect any latency "bottlenecks
 
 
 🏁 Key Takeaways
-* Systematic Isolation: I followed a "bottom-up" approach, starting from the local configuration (Layer 2/3) up to DNS resolution (Layer 7).
-* Environment Validation: Confirmed that the Windows 11 client is fully integrated into the lab network with functional internet access.
-* Technical Documentation: Demonstrated the ability to log and interpret network diagnostics for future incident reports.
+* **Systematic Isolation:** I followed a "bottom-up" approach, starting from the local configuration (Layer 2/3) up to DNS resolution (Layer 7).
+* **Environment Validation:** Confirmed that the Windows 11 client is fully integrated into the lab network with functional internet access.
+* **Technical Documentation:** Demonstrated the ability to log and interpret network diagnostics for future incident reports.
