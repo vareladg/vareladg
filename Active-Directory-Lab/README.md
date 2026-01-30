@@ -35,7 +35,6 @@ As a Junior System Administrator, I built a secure and organized network domain.
 
 * Designed a logical **Organizational Unit (OU)** structure (Customer Service, Sales, IT).
 * Created security groups to manage file permissions and access control.
-* Managed the user lifecycle, including **creating domain users** and performing **password resets**.
 
 
 ### 4. Group Policy Objects (GPOs)
@@ -52,9 +51,20 @@ As a Junior System Administrator, I built a secure and organized network domain.
 * Final result: User blocked from accessing system settings on the Windows 11 workstation.
 
 
-### 5. Automation with PowerShell
-* Used **PowerShell** to streamline administrative tasks, such as bulk user creation and system audits.
+### 5. User Management & Security - AD Password Reset
+<img width="1468" height="923" alt="image" src="https://github.com/user-attachments/assets/d4e55a00-6fb8-4c4a-a674-a4166de3a470" />
 
-```powershell
-# Example: PowerShell command to create a new AD User
-New-ADUser -Name "John Doe" -SamAccountName "jdoe" -UserPrincipalName "jdoe@mydomain.local" -Path "OU=Users,DC=mydomain,DC=local" -Enabled $true
+
+* In this final phase, I simulated one of the most frequent scenarios in IT Support: a user forgetting their password or being locked out of their account.
+
+* Simulated a common Help Desk ticket: a user forgotten password and account lockout.
+* Performed a remote password reset on the Domain Controller, ensuring the "User must change password at next logon" flag was enabled to maintain security best practices.
+* Verified the policy on the Windows 11 Client, where the system forced the user to establish new credentials before granting access.
+
+<img width="405" height="462" alt="image" src="https://github.com/user-attachments/assets/f12705e9-aa5d-4c0d-a0e3-7d28d2c46798" />
+
+
+
+
+🏁 Project Conclusion
+This lab demonstrates the end-to-end implementation of an Active Directory environment. By successfully configuring network infrastructure, domain services, and security policies, I have built a functional corporate environment that follows the Principle of Least Privilege and industry-standard identity management.
