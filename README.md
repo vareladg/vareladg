@@ -25,7 +25,7 @@ Technical portfolio showcasing hands-on experience gained through professional c
 ### 🖥️ IT Support & SysAdmin
 * **[Active Directory & User Management](./Active-Directory-Lab)** *Configuring Windows Server, managing OU structures, and handling GPOs.*
 * **[Ticketing System Workflow](./Helpdesk-Ticketing)** *End-to-end incident management using industry-standard ticketing tools.*
-* **[Network Troubleshooting](./Network-Diagnostics)** *Diagnosing connectivity issues using CLI tools (ping, tracert, nslookup).*
+* **[Network Troubleshooting](./Network-Troubleshooting-Analysis)** *Diagnosing connectivity issues using CLI tools (ping, tracert, nslookup).*
 
 ### 🛡️ Cybersecurity & SOC Analysis
 * **[SQL-Security-Lab](./SQL-Security-Lab)**: *Filtering through organizational login logs to identify suspicious patterns.*
