@@ -67,4 +67,4 @@ As a Junior System Administrator, I built a secure and organized network domain.
 
 
 🏁 Project Conclusion
-This lab demonstrates the end-to-end implementation of an Active Directory environment. By successfully configuring network infrastructure, domain services, and security policies, I have built a functional corporate environment that follows the Principle of Least Privilege and industry-standard identity management.
+* This lab demonstrates the end-to-end implementation of an Active Directory environment. By successfully configuring network infrastructure, domain services, and security policies, I have built a functional corporate environment that follows the Principle of Least Privilege and industry-standard identity management.
