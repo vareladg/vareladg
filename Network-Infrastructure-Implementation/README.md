@@ -55,23 +55,36 @@ ip dhcp pool RED_VENTAS
 ---
 
 ## 📊 Project Artifacts & Evidence
-* **Final Topology Design:**
+* **Final Topology Design**
+
 *Figure 1: Complete network diagram showing segmented departments and centralized services.*
 
 
+<img width="1470" height="923" alt="image" src="https://github.com/user-attachments/assets/3524edf3-be66-410f-bd48-86463e2057d7" />
 
-* **IDHCP Success:**
+
+* **DHCP Success**
+
 *Figure 2: Automatic IP assignment via DHCP.*
 
 
+<img width="1470" height="299" alt="image" src="https://github.com/user-attachments/assets/e9403833-0402-4f2c-855e-4363f66c4072" />
 
-* **Security Verification (ACL):**
+
+* **Security Verification (ACL)**
+
 *Figure 3: Evidence of the ACL blocking unauthorized ICMP traffic.*
 
 
-* **PDNS & Web Service:**
+<img width="286" height="136" alt="image" src="https://github.com/user-attachments/assets/9c5a356d-5d8f-425d-b653-6e362f6ade88" />
+
+
+* **DNS & Web Service**
+
 *Figure 4: Successful resolution of the internal domain and web server access.*
 
+
+<img width="1470" height="451" alt="image" src="https://github.com/user-attachments/assets/3d2c57b2-c293-411b-b083-c9528ed2cee7" />
 
 
 ---
