@@ -33,7 +33,7 @@ Technical portfolio showcasing hands-on experience gained through professional c
 * **[Incident Response & NIST Framework](./NIST-Incident-Report)** *Detailed documentation and remediation of a security incident following NIST guidelines.*
 * **[Network Traffic Analysis](./Wireshark-Lab)** *Identifying suspicious patterns and protocols using Wireshark.*
 
-### 🛡️ Network & Infrastructure Security
+### 🔒 Network & Infrastructure Security
 * **[Secure Corporate Network Implementation](./Network-Infrastructure-Implementation)**: *Designed a scalable network topology featuring VLAN segmentation, automated services (DHCP/DNS), and perimeter security (ACLs) using Cisco Packet Tracer.*
 
 ---
