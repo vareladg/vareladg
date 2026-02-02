@@ -9,6 +9,7 @@ Technical portfolio showcasing hands-on experience gained through professional c
 * **Google IT Support Professional Certificate** (Coursera)
 * **Google Cybersecurity Professional Certificate** (Coursera)
 * **Practical Helpdesk** (TCM Security Academy)
+* **Certified in Cybsersecurity (CC)** (ISC2)
 
 ---
 
