@@ -52,6 +52,12 @@ ip dhcp pool RED_VENTAS
 * **Implementation:** Applied a Standard Access Control List (ACL) inbound on the router's LAN interface.
 * **Verification:** Pings from the restricted host resulted in `Destination host unreachable`, confirming the firewall rule was active.
 
+
+### **5. Inter-VLAN Routing (Router-on-a-Stick)**
+* **VLAN Segmentation:** Created isolated broadcast domains (VLAN 10 for Sales, VLAN 20 for HR) to improve security and network efficiency.
+* **802.1Q Encapsulation:** Configured sub-interfaces on the Router using the IEEE 802.1Q standard to allow communication between segments.
+* **Dynamic Addressing:** Implemented Multiple DHCP Scopes to automatically assign IPs based on the originating VLAN, ensuring zero-touch deployment for end-user devices.
+
 ---
 
 ## 📊 Project Artifacts & Evidence
