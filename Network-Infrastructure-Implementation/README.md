@@ -95,7 +95,7 @@ ip dhcp pool RED_VENTAS
 
 * **Inter-VLAN Routing & Router-on-a-Stick Topology**
 
-*Figure 5: The image demonstrates traffic isolation at Layer 2 and controlled routing at Layer 3.*
+*Figure 5: Visual representation of the network core showing the trunk link between the Switch and the Router, enabling secure communication between VLAN 10 (Sales) and VLAN 20 (HR).*
 
 
 <img width="1470" height="924" alt="image" src="https://github.com/user-attachments/assets/738db6fc-7765-4c30-9085-0279bff9c8b3" />
