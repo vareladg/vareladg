@@ -11,7 +11,7 @@ This project documents a series of real-world troubleshooting scenarios encounte
 ## Tools & Commands Used
 * **Services.msc:** Service lifecycle management (Automatic vs. Manual).
 * **Event Viewer:** Log analysis for application and system errors.
-* **CLI Tools:** `ipconfig`, `ping`, `nslookup`, `sfc /scannow`.
+* **CLI Tools:** `ipconfig`, `ping`, `nslookup`.
 * **Credential Manager:** Managing cached Windows and Office identities.
 
 ## Technical Implementation
@@ -57,6 +57,11 @@ This project documents a series of real-world troubleshooting scenarios encounte
 * **Resolution:**
   * Created a **New Outlook Profile** via Control Panel > Mail to bypass data corruption.
   * Cleared obsolete identities in **Windows Credential Manager** to resolve authentication loops.
+ 
+Note: Since this environment uses a Windows Server Domain Controller and New Outlook (v11), troubleshooting was performed via App Advanced Options (Repair/Reset) and Windows Credential Manager, as these are the modern standard for M365 desktop support.
+
+<img width="1014" height="688" alt="image" src="https://github.com/user-attachments/assets/82cd667e-85db-4292-a967-e8bade611b8e" />
+
 
 ## Key Takeaways
 * **Issue Isolation:** Demonstrated the ability to determine if a fault is local (App), network-based, or account-based (Cloud).
