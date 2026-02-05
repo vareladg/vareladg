@@ -28,6 +28,7 @@ Technical portfolio showcasing hands-on experience gained through professional c
 * **[Linux Permissions & Access Control](./Linux-Permissions-Lab)** *Securing sensitive data using chmod/chgrp, group management, and the Principle of Least Privilege.*
 * **[Network Troubleshooting](./Network-Troubleshooting-Analysis)** *Diagnosing connectivity issues using CLI tools (ping, tracert, nslookup).*
 * **[Linux Processes & Kernel Troubleshooting](./Linux-Processes-Kernel-Lab)** *Simulated CPU/memory issues, monitored processes, analyzed system/kernel logs, and applied safe troubleshooting actions.*
+* **[Windows Desktop Support](./Windows-Desktop-Support-Labs)** *Managing Windows Services (Print Spooler), resolving IP/DNS conflicts, and troubleshooting Microsoft 365/Outlook profile corruption.*
 
 ### 🛡️ Cybersecurity & SOC Analysis
 * **[SQL Security Lab](./SQL-Security-Lab)**: *Filtering through organizational login logs to identify suspicious patterns.*
