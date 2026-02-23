@@ -1,16 +1,22 @@
 # Windows Server 2022 & Active Directory Infrastructure Lab
 
 ## Project Overview
-This project involved the end-to-end deployment of a Windows Server 2022 environment as a Domain Controller. The goal was to simulate a corporate infrastructure to manage users, groups, and security policies (GPOs) while automating tasks with PowerShell.
+This project covers the **end-to-end deployment** of a Windows Server 2022 Domain Controller environment. The goal was to simulate a real corporate infrastructure: manage identities, enforce security policies via GPOs, and automate repetitive sysadmin tasks with **PowerShell**.
 
 ## Scenario
-As a Junior System Administrator, I built a secure and organized network domain. This involved setting up the server, joining client workstations to the domain, and implementing the Principle of Least Privilege through Organizational Units (OUs).
+As a **Junior System Administrator**, I was tasked with building a secure and organized domain from scratch — including server configuration, client workstation integration, OU design, GPO enforcement, and Tier 1 helpdesk support simulation (password resets, account lockouts).
 
-## Tools & Environment
-* **Hypervisor:** VMware Fusion Pro and UTM
-* **Operating Systems:** Windows Server 2022 (Domain Controller), Windows 11 Pro (Client Workstation)
-* **Networking:** Internal Virtual Network with Static IP configuration
-* **Scripting:** PowerShell
+
+## 🛠️ Tools & Environment
+
+| Component | Details |
+|---|---|
+| Hypervisor | VMware Fusion Pro / UTM |
+| Domain Controller OS | Windows Server 2022 |
+| Client Workstation | Windows 11 Pro |
+| Networking | Internal virtual network, static IP |
+| Scripting | PowerShell |
+| AD Module | ActiveDirectory (RSAT) |
 
 ## Technical Implementation Steps
 
