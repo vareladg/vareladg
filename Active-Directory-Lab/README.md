@@ -15,7 +15,6 @@ As a **Junior System Administrator**, I was tasked with building a secure and or
 | Domain Controller OS | Windows Server 2022 |
 | Client Workstation | Windows 11 Pro |
 | Networking | Internal virtual network, static IP |
-| Scripting | PowerShell |
 | AD Module | ActiveDirectory (RSAT) |
 
 ## Technical Implementation Steps
