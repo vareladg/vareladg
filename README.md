@@ -31,7 +31,6 @@ Technical portfolio showcasing hands-on experience gained through professional c
 * **[Windows Desktop Support](./Windows-Desktop-Support-Labs)** *Managing Windows Services (Print Spooler), resolving IP/DNS conflicts, and troubleshooting Microsoft 365/Outlook profile corruption.*
 
 ### 🛡️ Cybersecurity & SOC Analysis
-* **[SQL Security Lab](./SQL-Security-Lab)**: *Filtering through organizational login logs to identify suspicious patterns.*
 * **[Incident Response & NIST Framework](./NIST-Incident-Response-Lab)** *Documenting detection, containment, and eradication of a security breach following NIST guidelines.*
 * **[Network Traffic Analysis](./Network-Traffic-Analysis)** *Packet sniffing, identifying clear-text credentials, and analyzing TLS encryption.*
 
