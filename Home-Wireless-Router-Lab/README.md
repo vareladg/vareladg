@@ -31,12 +31,12 @@ Reduced the DHCP pool to a maximum of 10 addresses to match the household's real
 **4. Wireless network & security**
 Enabled the 2.4 GHz radio, set a custom SSID, and secured it with WPA2-Personal (the strongest option this router offers) plus a custom pre-shared key, since the signal would reach beyond the apartment itself.
 
-![Wireless Security tab showing WPA2-Personal configuration](screenshots/wireless-security.png)
+![Wireless Security tab showing WPA2-Personal configuration](wireless-security.png)
 
 **5. Client configuration & verification**
 Configured DHCP on both wired PCs and the laptop, connected the laptop to the new SSID with the pre-shared key, and confirmed internet access from all three endpoints by loading an external site.
 
-![Laptop successfully connected to the wireless access point](screenshots/laptop-connected.png)
+![Laptop successfully connected to the wireless access point](laptop-connected.png)
 
 ## Skills demonstrated
 
