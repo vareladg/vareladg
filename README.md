@@ -36,6 +36,7 @@ Technical portfolio showcasing hands-on experience gained through professional c
 
 ### 🔒 Network & Infrastructure Security
 * **[Secure Corporate Network Implementation](./Network-Infrastructure-Implementation)**: *Designed a scalable network topology featuring VLAN segmentation, automated services (DHCP/DNS), and perimeter security (ACLs) using Cisco Packet Tracer.*
+* **[Home Wireless Router Lab](./Home-Wireless-Router-Lab)**: *Designed a scalable network topology featuring VLAN segmentation, automated services (DHCP/DNS), and perimeter security (ACLs) using Cisco Packet Tracer.*
 
 ---
 
