@@ -1,6 +1,6 @@
 # Home Wireless Router Configuration
 
-**Cisco Packet Tracer Lab — CCNA / Networking Fundamentals**
+**Cisco Packet Tracer Lab**
 
 ## Objective
 
