@@ -8,7 +8,7 @@ Design and configure a small residential network end-to-end: bring internet and 
 
 ## Topology
 
-![Network topology — Packet Tracer Logical view](screenshots/topology.png)
+![Network topology — Packet Tracer Logical view](topology.png)
 *Logical view after all devices were connected and configured.*
 
 - **ISP feed** → coax splitter → Cable Modem (data) + TV (video)
